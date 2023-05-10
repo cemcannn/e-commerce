@@ -1,0 +1,135 @@
+
+<!-- Start Header -->
+  <nav class="navbar navbar-expand-lg navbar-light shadow">
+      <div class="container d-flex justify-content-between align-items-center">
+
+          <a class="navbar-brand text-success logo h1 align-self-center" href="index.html">
+              Marmario
+          </a>
+
+          <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="align-self-center collapse navbar-collapse flex-fill  d-lg-flex justify-content-lg-between" id="templatemo_main_nav">
+              <div class="flex-fill">
+                  <ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
+                      <li class="nav-item">
+                        <a class="nav-link" aria-current="page" routerLink="">Anasayfa</a>                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link " aria-current="page" routerLink="aboutus">Hakkımızda</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link " aria-current="page" routerLink="products">Ürünler</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link " aria-current="page" routerLink="contact">İletişim</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link " aria-current="page" routerLink="register" *ngIf="!authService.isAuthenticated">Kayıt Ol</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link " aria-current="page" routerLink="login" *ngIf="!authService.isAuthenticated">Giriş Yap</a>
+                      </li>
+                      <li>
+                        <a class="nav-link " aria-current="page" style="color:red;cursor:pointer;" (click)="signOut()" *ngIf="authService.isAuthenticated">Çıkış Yap</a>
+                      </li>
+                      <li>
+                        <a routerLink="admin" class="btn btn-outline-success" type="submit" *ngIf="authService.isAuthenticated">Yönetim Paneli</a>
+                      </li>
+                      <div class="d-flex">
+                        <button class="btn btn-outline-success" data-bs-toggle="modal" data-bs-target="#basketModal" (click)="loadComponent()" type="submit">Sepet</button>
+                      </div>
+                  </ul>
+              </div>
+          </div>
+      </div>
+  </nav>
+<!-- Close Header -->
+
+
+  <div class="row m-5">
+      <router-outlet></router-outlet>
+  </div>
+
+
+<!-- Start Footer -->
+      <footer class="bg-dark" id="tempaltemo_footer">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-4 pt-5">
+                    <h2 class="h2 text-success border-bottom pb-3 border-light logo">Marmario</h2>
+                    <ul class="list-unstyled text-light footer-link-list">
+                        <li>
+                            <i class="fas fa-map-marker-alt fa-fw"></i>
+                            123 Consectetur at ligula 10660
+                        </li>
+                        <li>
+                            <i class="fa fa-phone fa-fw"></i>
+                            <a class="text-decoration-none" href="tel:010-020-0340">010-020-0340</a>
+                        </li>
+                        <li>
+                            <i class="fa fa-envelope fa-fw"></i>
+                            <a class="text-decoration-none" href="mailto:info@company.com">info@marmario.com</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="col-md-4 pt-5">
+                    <h2 class="h2 text-light border-bottom pb-3 border-light">Ürünler</h2>
+                    <ul class="list-unstyled text-light footer-link-list">
+                        <li><a class="text-decoration-none" routerLink="">Luxury</a></li>
+                        <li><a class="text-decoration-none" href="#">Sport Wear</a></li>
+                        <li><a class="text-decoration-none" href="#">Men's Shoes</a></li>
+                        <li><a class="text-decoration-none" href="#">Women's Shoes</a></li>
+                        <li><a class="text-decoration-none" href="#">Popular Dress</a></li>
+                        <li><a class="text-decoration-none" href="#">Gym Accessories</a></li>
+                        <li><a class="text-decoration-none" href="#">Sport Shoes</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-4 pt-5">
+                    <h2 class="h2 text-light border-bottom pb-3 border-light">Bilgi</h2>
+                    <ul class="list-unstyled text-light footer-link-list">
+                        <li><a class="text-decoration-none" href="#">Anasayfa</a></li>
+                        <li><a class="text-decoration-none" routerLink="aboutus">Hakkımızda</a></li>
+                        <li><a class="text-decoration-none" routerLink="products">Ürünler</a></li>
+                        <li><a class="text-decoration-none" routerLink="contact">İletişim</a></li>
+                    </ul>
+                </div>
+
+            </div>
+
+            <div class="row text-light mb-4">
+                <div class="col-12 mb-3">
+                    <div class="w-100 my-3 border-top border-light"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="w-100 bg-black py-3">
+            <div class="container">
+                <div class="row pt-2">
+                    <div class="col-12">
+                        <p class="text-left text-light">
+                            Copyright &copy; 2023 Marmario
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+<!-- End Footer -->
+
+<ngx-spinner size="default" name="s1" type="ball-atom"></ngx-spinner>
+<ngx-spinner size="default" name="s2" type="ball-scale-multiple"></ngx-spinner>
+<ngx-spinner size="default" name="s3" type="ball-spin-clockwise-fade-rotating"></ngx-spinner>
+
+<!--<app-baskets></app-baskets>-->
+
+<div class="modal fade" id="basketModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-xl">
+    <ng-template appDynamicLoadComponent></ng-template>
+  </div>
+</div>

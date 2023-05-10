@@ -1,0 +1,28 @@
+.carousel {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    padding-bottom: 20px;
+  
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  
+    .carousel-item {
+      flex: 0 0 auto;
+      width: calc(100% - 20px);
+      margin-right: 20px;
+      scroll-snap-align: start;
+  
+      img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+      }
+    }
+  }
