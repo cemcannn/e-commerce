@@ -10,6 +10,7 @@ import { FileUploadOptions } from '../../services/common/file-upload/file-upload
 import { ProductService } from '../../services/common/models/product.service';
 import { BaseDialog } from '../base/base-dialog';
 import { DeleteDialogComponent, DeleteState } from '../delete-dialog/delete-dialog.component';
+import { DomSanitizer } from '@angular/platform-browser';
 
 declare var $: any
 
@@ -24,6 +25,7 @@ export class SelectProductImageDialogComponent extends BaseDialog<SelectProductI
     @Inject(MAT_DIALOG_DATA) public data: SelectProductImageState | string,
     private productService: ProductService,
     private spinner: NgxSpinnerService,
+    private sanitizer:DomSanitizer,
     private dialogService: DialogService) {
     super(dialogRef)
   }
@@ -38,6 +40,10 @@ export class SelectProductImageDialogComponent extends BaseDialog<SelectProductI
   };
 
   images: List_Product_Image[];
+
+  sanitize(url:string){
+    return this.sanitizer.bypassSecurityTrustUrl(url);
+}
 
   async ngOnInit() {
     this.spinner.show(SpinnerType.BallAtom);
@@ -54,7 +60,6 @@ export class SelectProductImageDialogComponent extends BaseDialog<SelectProductI
         await this.productService.deleteImage(this.data as string, imageId, () => {
           this.spinner.hide(SpinnerType.BallAtom);
           var card = $(event.srcElement).parent().parent();
-          debugger;
           card.fadeOut(500);
         });
       }

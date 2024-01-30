@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hhi2AxXMMOQru5lZ5ZaJyYIJr0tqCIbnpfZ8iNjVL7n1Qm/XV6awrLH6Cov8AdZvnShVME6FfeGe0sAxcwAmAA==",
+  "dgSpecHash": "DgiBR91LEBmg8ogeq6U2A9yeFR2gbQYBIOVY8J/rT7HHRdbZcBueF43mxYgkCtn8OcUCx/3rEdBqGYg8Fd9rFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cmcan\\Desktop\\mini_e-commerce\\ETicaretAPI\\SignalR\\SignalR.csproj",
+  "projectFilePath": "C:\\Users\\cmcan\\Desktop\\MyProjects\\Marmario E-Ticaret Sitesi\\marmario e-commerce\\ETicaretAPI\\SignalR\\SignalR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cmcan\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\cmcan\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",

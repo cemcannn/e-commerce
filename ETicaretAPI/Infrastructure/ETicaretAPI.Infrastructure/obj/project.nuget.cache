@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hnKVihARd8YpxjcZ8MOSV10VwQJe9wpEL6DXR8tVEgSbmvRbQgHjwKnbiHAS6ImYDR4Xh5gdS1Cx2FL/6WrwuQ==",
+  "dgSpecHash": "7SdnjfA1mnoL/7gfSXB/ibE/iED/6o8cHZI9IQhmOiGFiEufMFEpLi3NqncaZxU9VOjysp9FjkiJzS5pvRbBSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cmcan\\Desktop\\mini_e-commerce\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\cmcan\\Desktop\\MyProjects\\Marmario E-Ticaret Sitesi\\marmario e-commerce\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cmcan\\.nuget\\packages\\azure.core\\1.28.0\\azure.core.1.28.0.nupkg.sha512",
     "C:\\Users\\cmcan\\.nuget\\packages\\azure.storage.blobs\\12.15.0\\azure.storage.blobs.12.15.0.nupkg.sha512",

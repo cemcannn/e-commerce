@@ -55,3 +55,43 @@ C:\Users\cmcan\Desktop\mini_e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Pe
 C:\Users\cmcan\Desktop\mini_e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.pdb
 C:\Users\cmcan\Desktop\mini_e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.genruntimeconfig.cache
 C:\Users\cmcan\Desktop\mini_e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ref\ETicaretAPI.Persistence.dll
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.deps.json
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.runtimeconfig.json
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.dll
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.pdb
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.AssemblyInfo.cs
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.CopyComplete
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.dll
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\refint\ETicaretAPI.Persistence.dll
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.pdb
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.genruntimeconfig.cache
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ref\ETicaretAPI.Persistence.dll
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.sourcelink.json
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.deps.json
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.runtimeconfig.json
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.dll
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.pdb
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.AssemblyInfo.cs
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.sourcelink.json
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.CopyComplete
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.dll
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\refint\ETicaretAPI.Persistence.dll
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.pdb
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.genruntimeconfig.cache
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ref\ETicaretAPI.Persistence.dll

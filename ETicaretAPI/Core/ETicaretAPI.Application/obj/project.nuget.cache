@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qWbq6kHIuFjz+RrLpbZpf+oXhowFv1mR4jPb56EINhHSsmgCdC1Mj8rAUcI3JJge0H02K/hqv+OeYc5BuMoRfg==",
+  "dgSpecHash": "FpQOGsfuXqr5sx0p+yz2NHsnwSz36P+atEewrbFa/TeiaNSunxgtVJifuXLDVzT9oRfd5LrQ4yIcy/l9pVRe0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cmcan\\Desktop\\mini_e-commerce\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
+  "projectFilePath": "C:\\Users\\cmcan\\Desktop\\MyProjects\\Marmario E-Ticaret Sitesi\\marmario e-commerce\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cmcan\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\cmcan\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",

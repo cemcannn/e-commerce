@@ -14,7 +14,7 @@ import { ComponentsModule } from './components/components.module';
     ComponentsModule
   ],
   exports: [
-    LayoutModule
+    LayoutModule 
   ]
 })
 export class AdminModule { }

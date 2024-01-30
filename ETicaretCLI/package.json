@@ -26,6 +26,7 @@
     "@ng-bootstrap/ng-bootstrap": "^14.1.1",
     "alertifyjs": "^1.13.1",
     "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
     "jquery": "^3.6.3",
     "ngx-file-drop": "^14.0.2",
     "ngx-scanner-qrcode": "^1.2.7",

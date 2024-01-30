@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wiCRFThfSfu7FQTzd3uwm6T/TFs2Cvxh3fsUekuxsc+L77SBl72zs6DLcQeDRAEJmYz4oczg1J9Qmz/UsHwHpQ==",
+  "dgSpecHash": "9o0QhJs0ELGH9H3nGUxhhyonloA+ODMF0PeNWc7lLIH4FhYN0IVQBSaUEy1UlKFEuZD5yrku2zhiBgO92cbOQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cmcan\\Desktop\\mini_e-commerce\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+  "projectFilePath": "C:\\Users\\cmcan\\Desktop\\MyProjects\\Marmario E-Ticaret Sitesi\\marmario e-commerce\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cmcan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\cmcan\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

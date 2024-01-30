@@ -43,3 +43,35 @@ C:\Users\cmcan\Desktop\mini_e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\
 C:\Users\cmcan\Desktop\mini_e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\refint\ETicaretAPI.Application.dll
 C:\Users\cmcan\Desktop\mini_e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.pdb
 C:\Users\cmcan\Desktop\mini_e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ref\ETicaretAPI.Application.dll
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.deps.json
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.AssemblyReference.cache
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.AssemblyInfoInputs.cache
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.AssemblyInfo.cs
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.CopyComplete
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\refint\ETicaretAPI.Application.dll
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ref\ETicaretAPI.Application.dll
+C:\Users\cmcan\Desktop\MyProjects\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.sourcelink.json
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.deps.json
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.AssemblyReference.cache
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.AssemblyInfoInputs.cache
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.AssemblyInfo.cs
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.sourcelink.json
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.CopyComplete
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\refint\ETicaretAPI.Application.dll
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\cmcan\Desktop\MyProjects\Marmario E-Ticaret Sitesi\marmario e-commerce\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ref\ETicaretAPI.Application.dll
